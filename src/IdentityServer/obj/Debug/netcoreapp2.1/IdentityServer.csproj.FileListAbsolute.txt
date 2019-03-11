@@ -1,0 +1,14 @@
+C:\Users\mnazar\source\repos\IdentityServer4DotNetCore-Sample-app\src\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.deps.json
+C:\Users\mnazar\source\repos\IdentityServer4DotNetCore-Sample-app\src\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.runtimeconfig.json
+C:\Users\mnazar\source\repos\IdentityServer4DotNetCore-Sample-app\src\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.runtimeconfig.dev.json
+C:\Users\mnazar\source\repos\IdentityServer4DotNetCore-Sample-app\src\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.dll
+C:\Users\mnazar\source\repos\IdentityServer4DotNetCore-Sample-app\src\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.pdb
+C:\Users\mnazar\source\repos\IdentityServer4DotNetCore-Sample-app\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.csprojAssemblyReference.cache
+C:\Users\mnazar\source\repos\IdentityServer4DotNetCore-Sample-app\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.csproj.CoreCompileInputs.cache
+C:\Users\mnazar\source\repos\IdentityServer4DotNetCore-Sample-app\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorAssemblyInfo.cache
+C:\Users\mnazar\source\repos\IdentityServer4DotNetCore-Sample-app\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorAssemblyInfo.cs
+C:\Users\mnazar\source\repos\IdentityServer4DotNetCore-Sample-app\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.AssemblyInfoInputs.cache
+C:\Users\mnazar\source\repos\IdentityServer4DotNetCore-Sample-app\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.AssemblyInfo.cs
+C:\Users\mnazar\source\repos\IdentityServer4DotNetCore-Sample-app\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorTargetAssemblyInfo.cache
+C:\Users\mnazar\source\repos\IdentityServer4DotNetCore-Sample-app\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.dll
+C:\Users\mnazar\source\repos\IdentityServer4DotNetCore-Sample-app\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.pdb
